@@ -29,6 +29,8 @@ Python developers who publish interactive charts, including map-based ones.
 
 ## Prerequisites
 
+Fleet paths and versions below are a historical snapshot from the Oct 2026 creation wave; verify against the current fleet before use.
+
 - plotly 7.1.0 in Node-1's wave11-venv (`C:\geo-tools\wave11-venv`, Python 3.12.10) — invoke the venv Python by full path, never bare `python` (hermes venv)
 - GeoJSON dicts for the geo passes; GeoPandas is optional, not required by any pattern here
 
